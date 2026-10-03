@@ -19,7 +19,7 @@ python hangman.py
 ```
 
 ### 📸 Demo
-_(Add a screenshot or link to your demo video here)_
+https://lnkd.in/p/gpyxevqE
 
 ---
 Made by **Priyanka Mary J** | CodeAlpha Python Programming Internship
